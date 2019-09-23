@@ -1,3 +1,11 @@
+NOTE FOR ME:
+pull upstream/master
+merge master with config
+make changes to config.c
+merge with diffs
+apply whatever new patches desired
+make install on diffs
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
